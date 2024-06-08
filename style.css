@@ -1,0 +1,37 @@
+<html>
+    <title> </title>
+    <head>
+        <link rel="stylesheet"href="style.css"/>
+    </head>
+    <body>
+    <header>
+        <a href=""> Головна<img src="https://cdn.pixabay.com/photo/2015/12/28/02/58/home-1110868_1280.png" width="23px" height="23"/> </a> 
+        <a href=""> Працівники<img src="https://cdn.pixabay.com/photo/2016/11/14/17/39/person-1824144_1280.png" width="23px" height="23"/> </a>
+        <a href=""> Час Роботи<img src="https://cdn.pixabay.com/photo/2016/08/19/20/37/time-1606153_1280.png" width="23px" height="23"/> </a>
+    </header>
+    <main>
+        <h1> Наші працівники <img src="https://cdn.pixabay.com/photo/2021/02/04/22/38/teamwork-5982861_640.png" width="50px" height="50px"/> </h1>
+            <p> Чоловіки: </p>
+            <p> 1.Миколай Леонідович; </p>
+            <p> 2.Дмитро Михослухов; </p>
+            <p> 3.Даніель Дишогав; </p>
+            <p> 4.Матвій Долгіх; </p>
+            <p> 5.Артем Щуков; </p>
+            <p> 6.Назар Плаксін. </p>
+            <p> Жінки: </p>
+            <p> 1.Марія Коновалова; </p>
+            <p> 2.Даша Шаповалова; </p>
+            <p> 3.Катерина Зварич; </p>
+            <p> 4.Олександра Ткачка; </p>
+            <p> 5.Татьяна Романчук; </p>
+            <p> 6.Поліна Пилипчук.; </p>
+            <img src="https://cdn.pixabay.com/photo/2024/02/16/06/26/dentist-8576790_1280.png" width="200px" height="150px"/>
+    </main>
+    <footer>
+        <p> Контакти: </p>
+        <p> Номер Телефону: 0986530971 </p>
+        <p> Адреса: Вул. Жужкова 47Г </p>
+        <p> Чекаємо вас! </p>
+    </footer>
+    </body>
+</html>
